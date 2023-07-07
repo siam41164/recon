@@ -3,7 +3,7 @@ My Recon
 | Tool | Descritption |
 |--------|------|
 | Subfinder | For finding Target subdomain |
-| Httpx | A tool for retrieving HTTP responses and gathering information |
+| Httpx | For retrieving HTTP responses |
 | Httprobe | For select active subdomain |
 | Nslookup | For DNS record |
 | Nmap | For scan target network |
