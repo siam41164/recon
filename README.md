@@ -1,4 +1,4 @@
-My Recon methodology 
+My Recon Methodology 
 
 | Tool | Descritption |
 |--------|------|
