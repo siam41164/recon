@@ -1,0 +1,26 @@
+# Passive Recon Techniques
+
+host google.com
+nslookup google.com
+whois google.com
+traceroute google.com
+dnsrecon -d google.com
+wafw00f google.com
+whatis dig
+dig google.com
+dig @1.1.1.1 google.com
+dig @8.8.8.8 google.com
+dig google.com NS
+dig google.com ANY
+netcraft (online tool)
+dnsdumpster (online tool)
+whatweb malwarebytes.com
+theHarvester -d facebook.com -b google,linkedin,bing
+
+# Active Recon Techniques
+
+dnsrecon -d https://domain.com -t axfr
+fierce --domain malwarebyes.com
+knockpy domain.com
+
+
