@@ -21,6 +21,15 @@ theHarvester -d facebook.com -b google,linkedin,bing
 
 dnsrecon -d https://domain.com -t axfr
 fierce --domain malwarebyes.com
+fierce --domain malwarebyes.com --subdomains
 knockpy domain.com
+nmap
+gobuster dir --url https://domain.com -w /PATH-TO-WORDLIST
+nikto -h https://domain.com
+sniper
+recon-ng (framwork)
+
+
+
 
 
