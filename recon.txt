@@ -26,7 +26,8 @@ knockpy domain.com
 nmap
 gobuster dir --url https://domain.com -w /PATH-TO-WORDLIST
 nikto -h https://domain.com
-sniper
+sniper -t google.com
+sniper -t google.com -m stealth -o -re
 recon-ng (framwork)
 
 
